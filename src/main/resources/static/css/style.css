@@ -1,0 +1,18 @@
+h1 {
+    color:#0000FF;
+    font-family: Arial;
+}
+
+h2 {
+    color:#FF0000;
+    font-family: Arial;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table th, table td {
+    font-family: Arial;
+    padding: 5px;
+}
